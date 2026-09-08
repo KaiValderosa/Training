@@ -1,0 +1,1 @@
+print("pls giv kai monies thank u")
