@@ -8,17 +8,17 @@ Follow along here: [Introduction to Git and C](https://confluence.analog.com/spa
 
 ## Activities
 
-### Activity A — `Activity A/sort.c`
+### Activity A - `Activity A/sort.c`
 Sorts five integers into ascending order with bubble sort. Plays with the basic operators from the tutorial (relational, logical, arithmetic) and even swaps values in place using an XOR trick.
 
-PR Link
+PR Link: https://github.com/KaiValderosa/Training/pull/3
 
-### Activity B — `Activity B/calculator.c`
+### Activity B - `Activity B/calculator.c`
 A looping calculator for two integers w/ add, subtract, multiply, divide. Keeps running until you pick Exit, validates input, guards against divide-by-zero, and only accepts operands from 0 to 100.
 
-PR Link
+PR Link: https://github.com/KaiValderosa/Training/pull/4
 
-### Activity C — `Activity C/dynamic_array.c`
+### Activity C - `Activity C/dynamic_array.c`
 A menu-driven growable array of ints on the heap:
 - **Create** with `malloc()` (starts tiny w/ capacity 2)
 - **Add** past the initial size — `realloc()` doubles the buffer when it fills up
@@ -27,7 +27,7 @@ A menu-driven growable array of ints on the heap:
 - **Free** the memory on exit so nothing leaks
 - **Sort** ascending (bonus) — bubble sort merged in from Activity A
 
-PR Link
+PR Link: https://github.com/KaiValderosa/Training/pull/6
 
 ## Build & run
 
